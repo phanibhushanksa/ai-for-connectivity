@@ -19,5 +19,5 @@ cp .env_template .env
 
 4. Run the application:
 ```bash
-streamlit run main.py
+streamlit run MAIN.py
 ```
