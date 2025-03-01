@@ -1,3 +1,5 @@
 groq
 pandas
 streamlit
+plotly
+python-dotenv
