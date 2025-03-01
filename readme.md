@@ -1,13 +1,23 @@
 # AIM Network
 
-* Trying to push the zabbix server to public
+## Setup Instructions
 
-* To setup run the following commands:
+1. Create and activate a virtual environment:
+   ```bash
+   python3 -m venv .venv
+   source .venv/bin/activate
+
+2. Install all the required libraries
 ```bash
-source .venv/bin/activate
+pip install -r requirements.txt
 ```
 
-* Install all the required libraries
+3. Create an .env file and setup the Groq API key in the .evn file:
 ```bash
-requirements.tx
+cp .env_template .env
+```
+
+4. Run the application:
+```bash
+streamlit run main.py
 ```
