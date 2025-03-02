@@ -2,7 +2,6 @@
 
 <img src="images/aim_network_cover_picture.png" alt="AIM Network AI Cover" width="600"/>
 
-images/aim_network_cover_picture.png
 
 Welcome to the AIM Network AI Hackathon project! This application is designed to showcase innovative AI solutions developed during the hackathon. Our goal is to leverage AI technologies to solve real-world problems and enhance user experiences.
 
