@@ -28,6 +28,21 @@ Welcome to the AIM Network AI Hackathon project! This application is designed to
 - **Database**: mySQL
 - **AI Frameworks**: LangGraph, Groq, LLAMA
 - **Deployment**: Replit
+- 
+## 🎯 How It Works
+1. **Fetch Network Logs:** Real-time network streaming using Zabbix Agent.
+2. **Realtime Monitoring:** Zabbix dashboarding and monitoring. API integration with Zabbix
+3. **Instant Troubleshooting:** Alert forwarding to LLM via Groq API.
+4. **AI Resolution:** RAG AI Chatbot to solve network issues related to the organization.
+
+## 📡 Live Demo
+[Live Demo of AIM Network Application](https://aim-network-ai-hackathon.replit.app/)
+[Live Demo of AI Powered Zabbix Server](http://98.62.234.66/zabbix/zabbix.php?action=dashboard.view&dashboardid=1)
+
+**Note** : When you click on the Zabbix server link it will ask for username and password. Please find below.
+
+**Username**: AIM_Network
+**Password**: Hackathon123
 
 ## Installation
 
