@@ -47,7 +47,7 @@ Welcome to the AIM Network AI Hackathon project! This application is designed to
 
 **Password**: Hackathon123
 
-<img src="images/aimarchitecture.jpg" alt="AIM Network Architecture" width="600"/>
+<img src="images/aimarchitectureflow.jpg" alt="AIM Network Architecture" width="600"/>
 
 ## Installation
 
