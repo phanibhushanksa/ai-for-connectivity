@@ -1,5 +1,8 @@
-groq
-pandas
-streamlit
-plotly
+groq==0.18.0
+langgraph==0.3.2
+pandas==2.2.3
+streamlit==1.42.2
+plotly==6.0.0
 python-dotenv
+tavily-python==0.5.1
+wikipedia==1.4.0
