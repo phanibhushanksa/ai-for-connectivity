@@ -2,7 +2,7 @@ import streamlit as st
 
 # Configure the page
 st.set_page_config(
-    page_title="Network Monitor",
+    page_title="AIM Network Monitoring System",
     page_icon="🌐",
     layout="wide",
     initial_sidebar_state="expanded",
