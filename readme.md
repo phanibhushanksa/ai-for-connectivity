@@ -44,6 +44,7 @@ Welcome to the AIM Network AI Hackathon project! This application is designed to
 **Note** : When you click on the Zabbix server link it will ask for username and password. Please find below.
 
 **Username**: AIM_Network
+
 **Password**: Hackathon123
 
 ## Installation
